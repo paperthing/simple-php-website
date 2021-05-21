@@ -8,13 +8,13 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => 'Simple PHP Website by Dalbert',
         'site_url' => '',
         'pretty_uri' => false,
         'nav_menu' => [
             '' => 'Home',
             'about-us' => 'About Us',
-            'products' => 'Products',
+            'products' => 'Blog',
             'contact' => 'Contact',
         ],
         'template_path' => 'template',
